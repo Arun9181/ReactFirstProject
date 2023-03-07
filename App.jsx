@@ -1,12 +1,26 @@
-import React from "react";
+import React from  "react"
+ import Jiocinema from './Components/Jiocinema';
+import Netflix from './Netflix/Netflix';
+import Linkedin from "./Components/Linkedin";
+import Hotstar from "./Components/Hotstar"
+// import Kea from './Components/Kea';
+
+
+
 const App=()=>{
     return(
-        <>
-        <div>App</div>
-        <h1> 2+2</h1>
-        <p>{5+5}</p>
-        <h3> Bengaluru</h3>
-        </>
-    )
+<div>
+ <Jiocinema/>
+ <br />
+ <Netflix/>
+ <br />
+ <Linkedin/>
+ <br />
+ <Hotstar/>
+ <br />
+ {/* <Kea/> */}
+ 
+ </div>
+ )
 }
-export default App
+export default App;
