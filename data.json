@@ -1,0 +1,151 @@
+[
+    {
+        "movieName":"Ranna",
+        "actors":["Sudeep","Rachita ram","Devaraj"],
+        "yearofRelease":2015,
+        "collection":40,
+        "movieImage":"https://static.toiimg.com/photo/msid-61268458/61268458.jpg?43821"
+
+    },
+    {
+        "movieName":"KGF 2",
+        "actors":["Yash","Srinidhi shetty","Sanjay dutt"],
+        "yearofRelease":2022,
+        "collection":1200,
+        "movieImage":"https://static.toiimg.com/photo/msid-90725677/90725677.jpg?71132"
+    },
+    {
+        "movieName":"RRR",
+        "actors":["Ramcharan"," Jr NTR","Ajay Devgan" ,"Alia bhatt"],
+        "yearofRelease":2022,
+        "collection":1100,
+        "movieImage":"https://cdn.telanganatoday.com/wp-content/uploads/2022/06/RRR.jpg"
+    },
+    {
+        "movieName":"Galipata 2",
+        "actors":["Ganesh","Diganth","Pawan kumar"],
+        "yearofRelease":2022,
+        "collection":25,
+        "movieImage":"https://m.media-amazon.com/images/M/MV5BYzZiMmJjMjEtZTJkNS00ZjM5LWI4ZTMtNjNhOTg0MGU3MTM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+    },
+    {
+        "movieName":"Kantara",
+        "actors":["Rishabh shetty","Sapthami gowda"],
+        "yearofRelease":2022,
+        "collection":400,
+        "movieImage":"https://www.filmibeat.com/img/popcorn/movie_posters/kantara-20221009114707-20268.jpg"
+
+    },
+    {
+        "movieName":"Ranna",
+        "actors":["Sudeep","Rachita ram","Devaraj"],
+        "yearofRelease":2015,
+        "collection":40,
+        "movieImage":"https://static.toiimg.com/photo/msid-61268458/61268458.jpg?43821"
+
+    },
+    {
+        "movieName":"KGF 2",
+        "actors":["Yash","Srinidhi shetty","Sanjay dutt"],
+        "yearofRelease":2022,
+        "collection":1200,
+        "movieImage":"https://static.toiimg.com/photo/msid-90725677/90725677.jpg?71132"
+    },
+    {
+        "movieName":"RRR",
+        "actors":["Ramcharan"," Jr NTR","Ajay Devgan" ,"Alia bhatt"],
+        "yearofRelease":2022,
+        "collection":1100,
+        "movieImage":"https://cdn.telanganatoday.com/wp-content/uploads/2022/06/RRR.jpg"
+    },
+    {
+        "movieName":"Galipata 2",
+        "actors":["Ganesh","Diganth","Pawan kumar"],
+        "yearofRelease":2022,
+        "collection":25,
+        "movieImage":"https://m.media-amazon.com/images/M/MV5BYzZiMmJjMjEtZTJkNS00ZjM5LWI4ZTMtNjNhOTg0MGU3MTM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+    },
+    {
+        "movieName":"Kantara",
+        "actors":["Rishabh shetty","Sapthami gowda"],
+        "yearofRelease":2022,
+        "collection":400,
+        "movieImage":"https://www.filmibeat.com/img/popcorn/movie_posters/kantara-20221009114707-20268.jpg"
+
+    },
+    {
+        "movieName":"Ranna",
+        "actors":["Sudeep","Rachita ram","Devaraj"],
+        "yearofRelease":2015,
+        "collection":40,
+        "movieImage":"https://static.toiimg.com/photo/msid-61268458/61268458.jpg?43821"
+
+    },
+    {
+        "movieName":"KGF 2",
+        "actors":["Yash","Srinidhi shetty","Sanjay dutt"],
+        "yearofRelease":2022,
+        "collection":1200,
+        "movieImage":"https://static.toiimg.com/photo/msid-90725677/90725677.jpg?71132"
+    },
+    {
+        "movieName":"RRR",
+        "actors":["Ramcharan"," Jr NTR","Ajay Devgan" ,"Alia bhatt"],
+        "yearofRelease":2022,
+        "collection":1100,
+        "movieImage":"https://cdn.telanganatoday.com/wp-content/uploads/2022/06/RRR.jpg"
+    },
+    {
+        "movieName":"Galipata 2",
+        "actors":["Ganesh","Diganth","Pawan kumar"],
+        "yearofRelease":2022,
+        "collection":25,
+        "movieImage":"https://m.media-amazon.com/images/M/MV5BYzZiMmJjMjEtZTJkNS00ZjM5LWI4ZTMtNjNhOTg0MGU3MTM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+    },
+    {
+        "movieName":"Kantara",
+        "actors":["Rishabh shetty","Sapthami gowda"],
+        "yearofRelease":2022,
+        "collection":400,
+        "movieImage":"https://www.filmibeat.com/img/popcorn/movie_posters/kantara-20221009114707-20268.jpg"
+
+    },
+    {
+        "movieName":"Ranna",
+        "actors":["Sudeep","Rachita ram","Devaraj"],
+        "yearofRelease":2015,
+        "collection":40,
+        "movieImage":"https://static.toiimg.com/photo/msid-61268458/61268458.jpg?43821"
+
+    },
+    {
+        "movieName":"KGF 2",
+        "actors":["Yash","Srinidhi shetty","Sanjay dutt"],
+        "yearofRelease":2022,
+        "collection":1200,
+        "movieImage":"https://static.toiimg.com/photo/msid-90725677/90725677.jpg?71132"
+    },
+    {
+        "movieName":"RRR",
+        "actors":["Ramcharan"," Jr NTR","Ajay Devgan" ,"Alia bhatt"],
+        "yearofRelease":2022,
+        "collection":1100,
+        "movieImage":"https://cdn.telanganatoday.com/wp-content/uploads/2022/06/RRR.jpg"
+    },
+    {
+        "movieName":"Galipata 2",
+        "actors":["Ganesh","Diganth","Pawan kumar"],
+        "yearofRelease":2022,
+        "collection":25,
+        "movieImage":"https://m.media-amazon.com/images/M/MV5BYzZiMmJjMjEtZTJkNS00ZjM5LWI4ZTMtNjNhOTg0MGU3MTM3XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg"
+    },
+    {
+        "movieName":"Kantara",
+        "actors":["Rishabh shetty","Sapthami gowda"],
+        "yearofRelease":2022,
+        "collection":400,
+        "movieImage":"https://www.filmibeat.com/img/popcorn/movie_posters/kantara-20221009114707-20268.jpg"
+
+    }
+    
+]
