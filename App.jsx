@@ -1,26 +1,19 @@
-import React from  "react"
- import Jiocinema from './Components/Jiocinema';
-import Netflix from './Netflix/Netflix';
-import Linkedin from "./Components/Linkedin";
-import Hotstar from "./Components/Hotstar"
-// import Kea from './Components/Kea';
+import React,{Component} from "react";
+import StudentDetails from './StudentDetails';
+import JSON from "./studentdata.json"
 
 
+class App extends Component{
+ constructor()
+ {
+  super()
+  this.state={json:JSON}
+ }
+ render(){
+  return(
+    <StudentDetails data={this.state.json}/>
+  )
+ }
 
-const App=()=>{
-    return(
-<div>
- <Jiocinema/>
- <br />
- <Netflix/>
- <br />
- <Linkedin/>
- <br />
- <Hotstar/>
- <br />
- {/* <Kea/> */}
- 
- </div>
- )
 }
-export default App;
+export default App

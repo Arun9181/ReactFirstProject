@@ -1,0 +1,102 @@
+[
+    {
+        "slno":1,
+        "studentName":"Arun",
+        "studentID":202301 ,
+        "address":"Kudmud",
+        "age":26,
+        "subjects":["SOM","RCC","Web Technology"],
+        "yop":2018,
+        "photo":"https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWVyY2VkZXMlMjBjYXJ8ZW58MHx8MHx8&w=1000&q=80"
+    },
+    {
+        "slno":2,
+        "studentName":"Aditya",
+        "studentID":202302 ,
+        "address":"Bodhan",
+        "age":27,
+        "subjects":["FM","SOM","Machine learning"],
+        "yop":2017,
+        "photo":"https://images.pexels.com/photos/3729464/pexels-photo-3729464.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "slno":3,
+        "studentName":"Nagesh",
+        "studentID":202303 ,
+        "address":"Bangaluru",
+        "age":25,
+        "subjects":["SA","RCC","Web Technology"],
+        "yop":2020,
+        "photo":"https://imageio.forbes.com/specials-images/imageserve/5f962df3991e5636a2f68758/0x0.jpg?format=jpg&crop=812,457,x89,y103,safe&width=1200"
+    },
+    {
+        "slno":4,
+        "studentName":"Naresh",
+        "studentID":202304 ,
+        "address":"Rajapur",
+        "age":26,
+        "subjects":["SOM","RCC","Concrete Technology"],
+        "yop":2018,
+        "photo":"https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/homepage/model_choose/2023/aventador_ultimae_m.png"
+    },
+    {
+        "slno":5,
+        "studentName":"Mohan",
+        "studentID":202305 ,
+        "address":"Shivamogga",
+        "age":27,
+        "subjects":["TOM","Java","FM"],
+        "yop":2017,
+        "photo":"https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71oGke7wycL._SX569_.jpg"
+    },
+    {
+        "slno":6,
+        "studentName":"Abhijeet",
+        "studentID":202306 ,
+        "address":"Sangli",
+        "age":25,
+        "subjects":["Steel Strucrures","RCC","React"],
+        "yop":2020,
+        "photo":"https://d2m3nfprmhqjvd.cloudfront.net/blog/20220414165434/Mahindra-XUV700-1-800x450.jpg"
+    },
+    {
+        "slno":7,
+        "studentName":"Arpit",
+        "studentID":202307 ,
+        "address":"Bhopal",
+        "age":26,
+        "subjects":["Node","Robotics","Dynamics"],
+        "yop":2020,
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6kpJLtGGTVvGm-CKn2WCU8Dgqm_TUFdloccwcMbiXECM5qGegNdSoH1vE9C-b10EEh1k&usqp=CAU"
+    },
+    {
+        "slno":8,
+        "studentName":"Shubham",
+        "studentID":202308 ,
+        "address":"Sangli",
+        "age":24,
+        "subjects":["SQL","Machine learning","FM"],
+        "yop":2020,
+        "photo":"https://static.toiimg.com/thumb/msid-93468216,width-1280,height-720,resizemode-4/.jpg"
+    },
+    {
+        "slno":9,
+        "studentName":"Alok",
+        "studentID":202309 ,
+        "address":"Patna",
+        "age":25,
+        "subjects":["Data Science","Python","SQL"],
+        "yop":2019,
+        "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvo9RRcq2sNZxinwUdAUKzm5c2w8EUWU78iZhcz_rf9n0z-CxyhXev_gaDigI8TIsE6bc&usqp=CAU"
+    },
+    {
+        "slno":10,
+        "studentName":"Suraj",
+        "studentID":202310 ,
+        "address":"Tumkur",
+        "age":26,
+        "subjects":["Python","Data analytics","SQL"],
+        "yop":2020,
+        "photo":"https://carwow-uk-wp-3.imgix.net/18015-MC20BluInfinito-scaled-e1666008987698.jpg"
+    }
+]
