@@ -1,0 +1,25 @@
+.mainBlock{
+    /* display: flex;
+    justify-content: center;
+    text-align: center; */
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 1px solid rgb(68, 68, 163);
+}
+.mainBlock h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(57, 56, 56);
+}
+.btngroup button{
+    color: rgb(139, 42, 171);
+    border-radius: 20px;
+    border-color: darkcyan;
+    width: 200px;
+    height: 50px;
+    font-size: x-large;
+    font-family: fantasy;
+}
